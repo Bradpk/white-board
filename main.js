@@ -16,4 +16,4 @@ function solution(array){
     }
 }
 
-Hi
+Hi Hi
